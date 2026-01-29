@@ -6,4 +6,4 @@ CREATE TABLE users (
   nombre VARCHAR(100) NOT NULL
 );
 
-INSERT INTO users (nombre) VALUES ('Mon3tr'), ('Laevatain'), ('Kakekuri');
+INSERT INTO users (nombre) VALUES ('Mon3tr'), ('Laevatain'), ('Akekuri');
